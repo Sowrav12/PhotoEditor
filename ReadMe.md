@@ -17,4 +17,6 @@ Usage
 2. Once image file has been chosen, choose which filter is wanted 
 3. Adjust the intensity as desired 
 4. Original and filtered image will be shown in the center of the screen with a side by side comparison 
-5. User will be able to download the edited image to their device 
+5. User will be able to download the edited image to their device
+
+![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGo5d29pdzNva3VrMXBpN3A4NG9tdnJ1Y3Q1N2RvZHdpM2o0MTJ4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W37NAAHyARoIK4rRr6/giphy.gif)
